@@ -1,0 +1,15 @@
+{
+  "name": "kosha-live",
+  "version": "1.0.0",
+  "description": "Kosha portfolio dashboard with live NSE data backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
